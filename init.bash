@@ -9,3 +9,6 @@ sudo apt-get update
 # install typora
 sudo apt-get install typora
 
+# NodeJS Install
+# Golang Install
+# 
