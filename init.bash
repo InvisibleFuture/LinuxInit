@@ -18,3 +18,6 @@ sudo apt-get install typora
 # Flutter Install
 # Vim Install
 # Chrome Install
+
+# VScode Install
+sudo snap install --classic code
