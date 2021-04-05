@@ -11,4 +11,6 @@ sudo apt-get install typora
 
 # NodeJS Install
 # Golang Install
-# 
+# Flutter Install
+# Vim Install
+# Chrome Install
